@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882743973644",
+    "firebase_url": "https://omair-brew-crew.firebaseio.com",
+    "project_id": "omair-brew-crew",
+    "storage_bucket": "omair-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882743973644:android:e4fd770ded52013fca9b29",
+        "android_client_info": {
+          "package_name": "com.omair.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882743973644-cf78h527lhacs5hjluuibf82hm3vupf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbRBpY6ItueJd1IKKrHZ8BVOHIT5TPuHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882743973644-cf78h527lhacs5hjluuibf82hm3vupf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
